@@ -20,8 +20,6 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
-      minLength: 3
-      maxLength: 32
       default: "xxxxx"
   - title: "MQTT Broker Password"
     name: password
@@ -30,8 +28,6 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
-      minLength: 3
-      maxLength: 32
       default: "xxxxx"
   - title: "MQTT Broker IP Address"
     name: broker
@@ -40,6 +36,4 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
-      minLength: 7
-      maxLength: 15
       default: "192.168.1.xxx"
