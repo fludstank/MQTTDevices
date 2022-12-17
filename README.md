@@ -40,7 +40,15 @@ This 'master' device is used to create the desired device types (e.g. switch, bu
 
 The MQTT Device Creator will also display a list of the MQTT topics that are currently subscribed to across all created devices.
 
+<<<<<<< HEAD
 ### Configuration of created MQTT devices
+<<<<<<< HEAD
+=======
+
+=======
+### Configuration of created MQTT devices (switch, button, contact, motion, alarm, dimmer, temperature)
+>>>>>>> 62ad610 (Update README.md)
+>>>>>>> 0379c89 (Update README.md)
 Once a device is created using the master device, go to the respective device Settings screen to configure the MQTT topic for the device to respond to, as well as other optional preferences:
 
 * **Subscribe Topic**: MQTT topic in the form of xxxx/xxxx that this device will respond to
