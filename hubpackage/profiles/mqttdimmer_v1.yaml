@@ -38,6 +38,11 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
+<<<<<<< HEAD
+=======
+      minLength: 2
+      maxLength: 64
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
       default: "Switch.Action"
   - title: "Publish Dimmer State Changes"
     name: publish

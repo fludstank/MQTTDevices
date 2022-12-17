@@ -41,6 +41,11 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
+<<<<<<< HEAD
+=======
+      minLength: 2
+      maxLength: 64
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
       default: "Switch.Action"
   - title: "Button PRESSED Value"
     name: butpush
@@ -49,6 +54,11 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
+<<<<<<< HEAD
+=======
+      minLength: 1
+      maxLength: 10
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
       default: "push"
   - title: "Button HELD Value"
     name: butheld
@@ -57,6 +67,11 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
+<<<<<<< HEAD
+=======
+      minLength: 1
+      maxLength: 10
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
       default: "held"
   - title: "Button DOUBLE-PRESSED Value"
     name: butdouble
@@ -65,6 +80,11 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
+<<<<<<< HEAD
+=======
+      minLength: 1
+      maxLength: 10
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
       default: "double"
   - title: "Button TRIPLE-PRESSED Value"
     name: but3x
@@ -73,6 +93,11 @@ preferences:
     preferenceType: string
     definition:
       stringType: text
+<<<<<<< HEAD
+=======
+      minLength: 1
+      maxLength: 10
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
       default: "triple"
   - title: "Publish Button State Changes"
     name: publish

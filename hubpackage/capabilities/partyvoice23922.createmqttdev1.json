@@ -11,6 +11,10 @@
                 "properties": {
                     "value": {
                         "type": "string",
+<<<<<<< HEAD
+=======
+                        "maxLength": 20
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
                     }
                 },
                 "additionalProperties": false,
@@ -31,6 +35,10 @@
                     "optional": false,
                     "schema": {
                         "type": "string",
+<<<<<<< HEAD
+=======
+                        "maxLength": 20
+>>>>>>> 3ae12d6 (add dimmer sw, lock pub options, temperature)
                     }
                 }
             ]
