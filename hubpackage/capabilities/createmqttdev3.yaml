@@ -10,7 +10,6 @@ attributes:
       properties:
         value:
           type: string
-          maxLength: 20
       additionalProperties: false
       required:
         - value
@@ -24,4 +23,3 @@ commands:
         optional: false
         schema:
           type: string
-          maxLength: 20
